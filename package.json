@@ -1,0 +1,23 @@
+{
+  "name": "chata",
+  "version": "0.0.1",
+  "description": "Prueba Chat LBD-JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelAngelMaranonAstolfi/chata.git"
+  },
+  "keywords": [
+    "chat",
+    "ldb"
+  ],
+  "author": "Miguel Angel Marañon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiguelAngelMaranonAstolfi/chata/issues"
+  },
+  "homepage": "https://github.com/MiguelAngelMaranonAstolfi/chata#readme"
+}
